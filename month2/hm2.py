@@ -5,7 +5,7 @@ class Person:
         self.profession = profession
 
     def introduce(self):
-        print(f'Привет, меня зовут {self.name}. Я родился {self.birth_date}, по профессии я {self.profession}.'
+        print(f'Привет, меня зовут {self.name}. Я родился {self.birth_date}, по профессии я {self.profession}.')
 
 
 class Classmate(Person):
